@@ -3,7 +3,7 @@ Python implementation (with typing) of Held-Karp Algorithm for TSP
 
 ## Algorithm
 
-The Held–Karp algorithm is a dynamic programming algorithm solve the Traveling Salesman Problem (TSP), i.e. to find the shortest path to traverse all destinations and return to the starting point.
+The Held–Karp algorithm is a dynamic programming algorithm to solve the Traveling Salesman Problem (TSP), i.e. to find the shortest path to traverse all destinations and to return to the starting point.
 
 To find out more about Held-Karp algorithm, visit [Wikipedia Page](https://en.wikipedia.org/wiki/Held%E2%80%93Karp_algorithm).
 
